@@ -1,0 +1,5 @@
+*.csv
+*.csv.gz
+
+roteiro/
+env/
